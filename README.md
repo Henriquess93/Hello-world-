@@ -7,4 +7,4 @@ English: intermediate reading and basic writing. I am Hearing Impaired, Profound
 
 Would you like to find me?
 
-[LinkedIn](https://www.linkedin.com/in/henrique-schetini-pcd-17624511a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/henrique-schetini-pcd-17624511a/)
